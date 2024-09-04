@@ -1,26 +1,32 @@
-# Проект с Авторизацией через Google и Админ Панелью на TypeScript и Vite    
+# Project with Google Authentication and Admin Panel in TypeScript and Vite   
  
-Добро пожаловать в проект **Проект с Авторизацией через Google и Админ Панелью**! Этот проект представляет собой веб-приложение с функционалом авторизации через Google и административной панели.
+Welcome to the Project with Google Authentication and Admin Panel! This project is a web application featuring Google authentication and an admin panel.
  
-## Описание
+## Description
 
-Проект разработан с использованием **TypeScript** для повышения надежности кода и **Vite** для быстрой разработки и сборки. Приложение включает в себя систему аутентификации пользователей через Google и админ панель для управления данными.
+The project is developed using TypeScript for enhanced code reliability and Vite for fast development and build processes. The application includes a user authentication system via Google and an admin panel for managing data.
 
-## Структура проекта
+## Project Structure
 
-- **src**: содержит исходный код приложения.
-  - **components**: компоненты React.
-  - **pages**: страницы приложения.
-  - **services**: сервисы для работы с API.
-  - **types**: определения типов TypeScript.
-  - **utils**: утилиты и вспомогательные функции.
+- **src**: Сontains the application's source code.
+  - **components**: React components.
+  - **pages**: Application pages.
+  - **services**: Services for working with the API.
+  - **types**: TypeScript type definitions.
+  - **utils**: Utilities and helper functions.
 
-## Установка и запуск
+## Installation and Setup
 
-### Установка зависимостей
+### Install Dependencies
 
-1. Клонируйте репозиторий:
+1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ваш_юзернейм/название_репозитория.git
-   cd название_репозитория
+   git clone https://github.com/5ekastanx/Blog-App.git
+   cd Blog-App
+2. Install the dependencies:
+   ```bash
+   npm install
+3. Running the Application:
+   ```bash
+   npm run dev
